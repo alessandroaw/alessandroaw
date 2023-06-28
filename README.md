@@ -1,5 +1,10 @@
 ### Hi there 👋
+I'm an aspiring web3 developer from Indonesia 🇮🇩
 
+**About me:**
+- 🔭 I’m currently working on various web app projects
+- 🌱 I’m currently learning web3 (solidity, ethers, hardhat)
+- ❤ I love typescript and react
 <!--
 **alessandroaw/alessandroaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +19,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandroaw&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top 10 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroaw&count_private=true&langs_count=8&hide=vue,jupyter+notebook,css,html&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
