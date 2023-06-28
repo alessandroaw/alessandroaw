@@ -2,7 +2,7 @@
 I'm an aspiring web3 developer from Indonesia 🇮🇩
 
 **About me:**
-- 🔭 I’m currently working on various web app projects
+- 🔭 I’m currently working on various freelance web app projects
 - 🌱 I’m currently learning web3 (solidity, ethers, hardhat)
 - ❤ I love typescript and react
 <!--
