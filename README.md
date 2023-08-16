@@ -4,7 +4,7 @@ Hi <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.co
 Web3 Developer | Defi | Ninja 🥷
 --------------------------------
 
-I've been an marketing technologist 🙋🏻, product owner 🦸🏻‍♂️, data analyst 📊, but found my heart lies in software engineering 👨🏻‍💻. I'm currently specializing in web3 and blockchain technology, hoping to be a true master in the space 🥷
+I've been a marketing technologist 🙋🏻, product owner 🦸🏻‍♂️, data engineer 📊, but found my heart lies in software engineering 👨🏻‍💻. I'm currently specializing in web3 and blockchain technology, hoping to be a true master in the space 🥷
 
 *   🌍  I'm based in Bali, Indonesia
 *   🖥️  See my portfolio at [🚧 coming soon 🚧](http://github.com/alessandroaw)
