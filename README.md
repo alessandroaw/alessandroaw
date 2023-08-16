@@ -1,24 +1,16 @@
-### Hi there 👋
-I'm an aspiring web3 developer from Indonesia 🇮🇩
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sandro
+==============================================================================================================================
 
-**About me:**
-- 🔭 I’m currently working on various freelance web app projects
-- 🌱 I’m currently learning web3 (solidity, ethers, hardhat)
-- ❤ I love typescript
-<!--
-**alessandroaw/alessandroaw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web3 Developer | Defi
+---------------------
 
-Here are some ideas to get you started:
+I've been an marketing technologist 🙋🏻, product owner 🦸🏻‍♂️, data analyst 📊, but found my heart lies in software engineering 👨🏻‍💻. I'm currently specializing in web3 and blockchain technology, hoping to be a true master in the space 🥷
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+*   🌍  I'm based in Bali, Indonesia
+*   🖥️  See my portfolio at [🚧 coming soon 🚧](http://github.com/alessandroaw)
+*   ✉️  You can contact me at [alessandro.ariaw@gmail.com](mailto:alessandro.ariaw@gmail.com)
+*   🧠  I'm learning solidity, hardhat, appchain
+*   🤝  I'm open to collaborating on defi, web3
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandroaw&count_private=true&show_icons=true&theme=buefy&rank_icon=github&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
 [![Top 10 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroaw&count_private=true&langs_count=8&hide=vue,jupyter+notebook,css,html&layout=compact&theme=buefy&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
