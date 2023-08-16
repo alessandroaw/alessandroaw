@@ -1,8 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sandro
 ==============================================================================================================================
 
-Web3 Developer | Defi
----------------------
+Web3 Developer | Defi | Ninja 🥷
+--------------------------------
 
 I've been an marketing technologist 🙋🏻, product owner 🦸🏻‍♂️, data analyst 📊, but found my heart lies in software engineering 👨🏻‍💻. I'm currently specializing in web3 and blockchain technology, hoping to be a true master in the space 🥷
 
