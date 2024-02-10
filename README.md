@@ -1,7 +1,4 @@
-Hi <img align="top" alt="dnn" width="32px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"> My name is Sandro
-==============================================================================================================================
-
-Web3 Developer | Defi | Ninja 🥷
+Web3 Developer | Defi
 --------------------------------
 
 I've been a marketing technologist 🙋🏻, product owner 🦸🏻‍♂️, data engineer 📊, but found my heart lies in software engineering 👨🏻‍💻. I'm currently specializing in web3 and blockchain technology, hoping to be a true master in the space 🥷
