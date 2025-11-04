@@ -1,18 +1,25 @@
-Web3 Developer | Defi
---------------------------------
+<div align="center">
 
-I've been a marketing technologist 🙋🏻, product owner 🦸🏻‍♂️, data engineer 📊, but found my heart lies in software engineering 👨🏻‍💻. I'm currently specializing in web3 and blockchain technology, hoping to be a true master in the space 🥷
+# 👋 gm, I'm Sandr – Web3 Builder & DeFi Degen
 
-*   🌍  I'm based in Bali, Indonesia
-*   🖥️  See my portfolio at [🚧 coming soon 🚧](https://alessandroaw.dev)
-*   ✉️  You can contact me at [alessandro.ariaw@gmail.com](mailto:alessandro.ariaw@gmail.com)
-*   🧠  I'm learning solidity, hardhat, appchain
-*   🤝  I'm open to collaborating on defi or web3 in general
+![Web3](https://img.shields.io/badge/Web3-Dev-00D2FF?style=for-the-badge&logo=ethereum&logoColor=white) 
+![Solidity](https://img.shields.io/badge/Solidity-E6A023?style=for-the-badge&logo=solidity&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
-<!---
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandroaw&count_private=true&show_icons=true&theme=buefy&rank_icon=github&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
-[![Top 10 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroaw&count_private=true&langs_count=8&hide=vue,jupyter+notebook,css,html&layout=compact&theme=buefy&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
--->
+**WEB3 Indexer | DeFi Builder | CT Native**  
+*Shipping scalable defi. Building for the next 1B users. Contributor @prjx_hl. gm only.*
 
-## 📊 GitHub Stats
-[![Top 10 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroaw&count_private=true&langs_count=8&hide=vue,jupyter+notebook,css,html&layout=compact&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
+---
+
+### 📊 Live Stats
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alessandroaw&theme=dracula&hide_border=true&background=0D1117&stroke=FF79C6&ring=00D2FF&fire=FF79C6&currStreakLabel=FFFFFF)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroaw&count_private=true&langs_count=8&hide=vue,jupyter+notebook,css,html&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF)
+
+
+---
+
+### 🛠️ Stack I Ship With
+```text
+Ethereum · Solana · Polygon · Arbitrum · Optimism
+Solidity · Rust · Circom · TypeScript · React · Next.js
+Foundry · Hardhat · Anchor · The Graph · IPFS · Wagmi
