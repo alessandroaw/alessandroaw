@@ -7,7 +7,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 **WEB3 Indexer | DeFi Builder | CT Native**  
-*Shipping scalable defi. Building for the next 1B users. Contributor @prjx_hl. gm only.*
+*Shipping scalable defi. Building for the next 1M users. Contributor @prjx_hl. gm only.*
 
 ---
 
