@@ -12,14 +12,14 @@
 ---
 
 ### 📊 Live Stats
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=alessandroaw&theme=dracula&hide_border=true&background=0D1117&stroke=FF79C6&ring=00D2FF&fire=FF79C6&currStreakLabel=FFFFFF)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroaw&count_private=true&langs_count=8&hide=vue,jupyter+notebook,css,html&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&title_color=00D2FF&text_color=FFFFFF)
+![alessandro's Streak](https://github-readme-streak-stats.herokuapp.com/?user=alessandroaw&theme=dracula&hide_border=false)
+[![Top 10 Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandroaw&count_private=true&langs_count=8&hide=vue,jupyter+notebook,css,html&layout=compact&theme=dracula&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ---
 
 ### 🛠️ Stack I Ship With
 ```text
-Ethereum · Solana · Polygon · Arbitrum · Optimism
-Solidity · Rust · Circom · TypeScript · React · Next.js
-Foundry · Hardhat · Anchor · The Graph · IPFS · Wagmi
+Ethereum · Solana · Arbitrum · HyperEVM
+Solidity · Golang · TypeScript · React · Next.js
+Foundry · Hardhat · The Graph · IPFS · Wagmi
